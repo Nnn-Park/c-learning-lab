@@ -1,0 +1,21 @@
+# 빌드 산출물 (컴파일 결과물)
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dll
+
+# 임시 / 백업 파일
+*~
+*.swp
+*.swo
+
+# macOS 시스템 파일
+.DS_Store
+
+# VSCode 설정 (개인 환경이니까 굳이 올릴 필요 없음)
+.vscode/
+
+# JetBrains (CLion 등) IDE 설정
+.idea/
