@@ -18,4 +18,4 @@
 .vscode/
 
 # JetBrains (CLion 등) IDE 설정
-.idea/
+.idea/output/
