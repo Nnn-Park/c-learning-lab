@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/jaehyeong/Desktop/c-learning-lab/types_and_memory/output/floating_point_bit_pattern_demo'
+relocations:     []
+...
