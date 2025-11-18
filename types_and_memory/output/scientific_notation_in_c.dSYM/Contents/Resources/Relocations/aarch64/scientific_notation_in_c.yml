@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/jaehyeong/Desktop/c-learning-lab/types_and_memory/output/scientific_notation_in_c'
+relocations:     []
+...
